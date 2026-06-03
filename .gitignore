@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+dist/
+*.log
+npm-debug.log*
+
+# 个人备注（含本地 profile 配置）
+README_*.md
+
+# 环境变量
+.env
+.env.*
+
+# 编辑器
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
