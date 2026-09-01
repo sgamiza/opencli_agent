@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+dist/
+*.log
+npm-debug.log*
+
+# 个人备注（含本地 profile 配置）
+README_*.md
+
+# 环境变量
+.env
+.env.*
+
+# 编辑器
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# 本机给 AI 的完整说明，不推送到 GitHub
+README.local.md
+
+# local Chinese notes / version history — not on GitHub
+README.LOCAL.md
+版本记录.md
